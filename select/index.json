@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "けーたいみしてよ",
+  "base_artist": "MAISONdes",
+  "createdAt": "2025-12-17T15:13:10.295734Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "けーたいみしてよ",
+      "artist": "MAISONdes",
+      "has_synced": false,
+      "path": "select/pl_01_けーたいみしてよ_MAISONdes.txt"
+    }
+  ]
+}
