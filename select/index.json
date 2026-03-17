@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "base_track": "百面相",
-  "base_artist": "はしメロ",
-  "createdAt": "2026-03-14T17:12:43.706417Z",
+  "base_track": "けーたいみしてよ（feat. はしメロ、maeshima soshi）",
+  "base_artist": "MAISONdes",
+  "createdAt": "2026-03-17T14:01:30.532691Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "百面相",
-      "artist": "はしメロ",
+      "title": "けーたいみしてよ",
+      "artist": "MAISONdes",
       "has_synced": false,
-      "path": "select/pl_01_百面相_はしメロ.txt"
+      "path": "select/pl_01_けーたいみしてよ_MAISONdes.txt"
     }
   ]
 }
